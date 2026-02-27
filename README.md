@@ -1,2 +1,1 @@
 # Bayesian-Statistics
-Bayesian Statistics
